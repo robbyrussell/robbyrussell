@@ -8,7 +8,6 @@ Here are a few random details about me:
 - 🎙 am the host of [Maintainable](https://maintainable.fm/)...a podcast focused on overcoming problems related to legacy code and technical debt.
 - 🎸 am a guitarist in [The Mighty Missoula](https://www.mightymissoula.com/)...an instrumental Post-Rock band ([listen here](https://mightymissoula.bandcamp.com/)).
 
-
 ## Get in touch
 - Work: https://www.planetargon.com/about/robby-russell
 - Twitter: https://twitter.com/robbyrussell
@@ -37,4 +36,5 @@ Here are a few random details about me:
 - Giant Robots Smashing Into Other Giant Robots: [Episode 281: Reconnecting With Development (Robby Russell)](https://www.giantrobots.fm/281)
 - The Creative Agency Podcast: [Episode 041: Onboarding with Robby Russell of Planet Argon](http://www.creativeagencypodcast.com/onboarding-with-robby-russell-of-planet-argon/)
 - Bet On Yourself Podcast: [Episode 30: Robby Russell](https://www.betonyourself.com/podcast/episode-30-robby-russell)
+- DevJourney Podcast: [Epidose #58 Robby Russell succeeds being selfless](https://devjourney.info/Guests/58_RobbyRussell.html)
 - Maintainable: [Robby Russell: Turning the Mic Around with Kayla Reopelle](https://maintainable.fm/episodes/robby-russell-turning-the-mic-around-with-kayla-reopelle)
