@@ -8,6 +8,8 @@ Here are a few random details about me:
 - 🎙 am the host of [Maintainable](https://maintainable.fm/)...a podcast focused on overcoming problems related to legacy code and technical debt.
 - 🎸 am a guitarist in [The Mighty Missoula](https://www.mightymissoula.com/)...an instrumental Post-Rock band ([listen here](https://mightymissoula.bandcamp.com/)).
 
+- :octocat: [ReadME Project: Robby Russell](https://github.com/readme/robby-russell)...GitHub wrote an article about a few of my projects. ([check it out](https://github.com/readme/robby-russell)).
+
 ## Get in touch
 - Work: https://www.planetargon.com/about/robby-russell
 - Twitter: https://twitter.com/robbyrussell
