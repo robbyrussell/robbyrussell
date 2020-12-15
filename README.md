@@ -1,3 +1,5 @@
+![Photo of Robby Russell](https://github.com/robbyrussell/robbyrussell/blob/master/2020-9-18-Robby-Russell-Corduroy-5-medium.jpg?raw=true)
+
 # Robby (on Rails) Russell
 
 Bonjour! My name is Robby (he/him). I'm the CEO of [Planet Argon](https://www.planetargon.com/), a company that guides organizations with exisiting Ruby on Rails applications to help make them better and more maintainable. 
