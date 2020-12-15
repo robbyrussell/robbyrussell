@@ -40,3 +40,4 @@ Here are a few random details about me:
 - Bet On Yourself Podcast: [Episode 30: Robby Russell](https://www.betonyourself.com/podcast/episode-30-robby-russell)
 - DevJourney Podcast: [Epidose #58 Robby Russell succeeds being selfless](https://devjourney.info/Guests/58_RobbyRussell.html)
 - Maintainable: [Robby Russell: Turning the Mic Around with Kayla Reopelle](https://maintainable.fm/episodes/robby-russell-turning-the-mic-around-with-kayla-reopelle)
+- Developer Tea: [Maintainability w/ Robby Russell- part 1](https://developertea.simplecast.com/episodes/maintainability-w-robby-russell-part-1) [part 2](https://developertea.simplecast.com/episodes/maintainability-w-robby-russell-part-2)
