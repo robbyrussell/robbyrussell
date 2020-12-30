@@ -33,6 +33,7 @@ Here are a few random details about me:
 - The freeCodeCamp Podcast: [Ep. 34 - d'Oh My Zsh](https://freecodecamp.libsyn.com/ep-34-doh-my-zsh)
 - Bureau of Digital Podcast: [A Step-By-Step Guide to Building Your Internship Program](https://bureauofdigital.com/radio/bureau-briefing-content/2019/10/17-a-step-by-step-guide-to-building-your-internship-program)
 - Engineering People Podcast: [Robby Russell](https://engineeringpeople.libsyn.com/robby-russell)
+- Hanselminutes: [108 - Exploring Distributed Source Control with Git](https://www.hanselman.com/blog/hanselminutes-podcast-108-exploring-distributed-source-control-with-git)
 - The Rails with Jason Podcast: [Episode 063 - Turning Around Legacy Projects with Robby Russell, CEO of Planet Argon](https://www.codewithjason.com/rails-with-jason-podcast/robby-russell/)
 - Ruby on Rails Podcast: [Episode #330: Oh My Zsh & Maintainable Rails with Robby Russell](https://5by5.tv/rubyonrails/330) and [#332: 2020 Ruby on Rails Community Survey with Robby Russell](https://5by5.tv/rubyonrails/332) and [#21: Planet Argon](https://5by5.tv/rubyonrails/21)
 - FLOSS Weekly: [Episode 411: Oh My Zsh](https://twit.tv/shows/floss-weekly/episodes/411) with video!
