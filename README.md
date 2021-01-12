@@ -2,11 +2,11 @@
 
 # Robby (on Rails) Russell
 
-Bonjour! My name is Robby (he/him). I'm the CEO of [Planet Argon](https://www.planetargon.com/), a company that guides organizations with exisiting Ruby on Rails applications to help make them better and more maintainable. 
+Bonjour! My name is Robby (he/him). I'm the CEO of [Planet Argon](https://www.planetargon.com/), a company that guides organizations with existing Ruby on Rails applications to help make them better and more maintainable. 
 
 Here are a few random details about me:
 
-- 🌈 am the creator of [Oh My Zsh](https://ohmyz.sh/)...an community-driven framework for bringing delight to your CLI.
+- 🌈 am the creator of [Oh My Zsh](https://ohmyz.sh/)...a community-driven framework for bringing delight to your CLI.
 - 🎙 am the host of [Maintainable](https://maintainable.fm/)...a podcast focused on overcoming problems related to legacy code and technical debt.
 - 🎸 am a guitarist in [The Mighty Missoula](https://www.mightymissoula.com/)...an instrumental Post-Rock band ([listen here](https://mightymissoula.bandcamp.com/)).
 
@@ -23,7 +23,7 @@ Here are a few random details about me:
 
 ## A Few of my Articles
 
-- [d'Oh My Zsh: How I unexpectedly built a monster of an open source project](https://medium.com/free-code-camp/d-oh-my-zsh-af99ca54212c) 
+- [d'Oh My Zsh: How I unexpectedly built a monster of an open-source project](https://medium.com/free-code-camp/d-oh-my-zsh-af99ca54212c) 
 - [Herzog’s Cave of Forgotten Code](https://medium.com/@robbyrussell/herzogs-cave-of-forgotten-code-432f73cf1903)
 - [Ruby on Rails Code Audits: 8 Steps to Review Your App](https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
 - [Do You Have What It Takes To Be a Great Client?](https://blog.planetargon.com/entries/do-you-have-what-it-takes-to-be-a-great-client)
