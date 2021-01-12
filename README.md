@@ -6,7 +6,7 @@ Bonjour! My name is Robby (he/him). I'm the CEO of [Planet Argon](https://www.pl
 
 Here are a few random details about me:
 
-- 🌈 am the creator of [Oh My Zsh](https://ohmyz.sh/)...a community-driven framework for bringing delight to your CLI.
+- 🌈 am the creator of [Oh My Zsh](https://ohmyz.sh/)...a community-driven framework for bringing delight to your command-line interface (CLI).
 - 🎙 am the host of [Maintainable](https://maintainable.fm/)...a podcast focused on overcoming problems related to legacy code and technical debt.
 - 🎸 am a guitarist in [The Mighty Missoula](https://www.mightymissoula.com/)...an instrumental Post-Rock band ([listen here](https://mightymissoula.bandcamp.com/)).
 
