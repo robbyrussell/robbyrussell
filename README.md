@@ -16,7 +16,7 @@ Here are a few random details about me:
 - Twitter: https://twitter.com/robbyrussell
 - LinkedIn: http://www.linkedin.com/in/robbyrussell
 - Instagram: https://www.instagram.com/robbyrussell
-- Planet Argon Blog: https://blog.planetargon.com/robby-russell
+- Planet Argon Blog: https://blog.planetargon.com/blog/robby-russell
 - Dev.to: https://dev.to/robbyrussell
 - Medium: https://medium.com/@robbyrussell
 - Old blog: http://robbyonrails.com
