@@ -25,8 +25,9 @@ Here are a few random details about me:
 
 - [d'Oh My Zsh: How I unexpectedly built a monster of an open-source project](https://medium.com/free-code-camp/d-oh-my-zsh-af99ca54212c) 
 - [Herzog’s Cave of Forgotten Code](https://medium.com/@robbyrussell/herzogs-cave-of-forgotten-code-432f73cf1903)
-- [Ruby on Rails Code Audits: 8 Steps to Review Your App](https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
-- [Do You Have What It Takes To Be a Great Client?](https://blog.planetargon.com/entries/do-you-have-what-it-takes-to-be-a-great-client)
+- [When Should You Upgrade Your Rails Application?](https://blog.planetargon.com/blog/entries/when-should-you-upgrade-your-rails-application)
+- [Ruby on Rails Code Audits: 8 Steps to Review Your App](https://blog.planetargon.com/blog/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
+- [Do You Have What It Takes To Be a Great Client?](https://blog.planetargon.com/blog/entries/do-you-have-what-it-takes-to-be-a-great-client)
 
 ## A Few Podcast Episodes that I've been a guest on
 
