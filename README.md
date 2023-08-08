@@ -36,7 +36,7 @@ Here are a few random details about me:
 - Engineering People Podcast: [Robby Russell](https://engineeringpeople.libsyn.com/robby-russell)
 - Hanselminutes: [108 - Exploring Distributed Source Control with Git](https://www.hanselman.com/blog/hanselminutes-podcast-108-exploring-distributed-source-control-with-git)
 - The Rails with Jason Podcast: [Episode 063 - Turning Around Legacy Projects with Robby Russell, CEO of Planet Argon](https://www.codewithjason.com/podcast/9478252-063-turning-around-legacy-projects-with-robby-russell-ceo-of-planet-argon/)
-- Ruby on Rails Podcast: [Episode #330: Oh My Zsh & Maintainable Rails with Robby Russell](https://5by5.tv/rubyonrails/330) and [#332: 2020 Ruby on Rails Community Survey with Robby Russell](https://5by5.tv/rubyonrails/332) and [#21: Planet Argon](https://5by5.tv/rubyonrails/21)
+- Ruby on Rails Podcast: [Episode #481: Advice on Sunsetting a Rails Application](https://www.therubyonrailspodcast.com/481), [Episode #330: Oh My Zsh & Maintainable Rails with Robby Russell](https://5by5.tv/rubyonrails/330) and [#332: 2020 Ruby on Rails Community Survey with Robby Russell](https://5by5.tv/rubyonrails/332) and [#21: Planet Argon](https://5by5.tv/rubyonrails/21)
 - FLOSS Weekly: [Episode 411: Oh My Zsh](https://twit.tv/shows/floss-weekly/episodes/411) with video!
 - The Changelog: [Episode #61: Oh My Zsh](https://changelog.com/podcast/61)
 - Giant Robots Smashing Into Other Giant Robots: [Episode 281: Reconnecting With Development (Robby Russell)](https://www.giantrobots.fm/281)
