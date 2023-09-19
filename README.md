@@ -50,3 +50,4 @@ Here are a few random details about me:
 - Developer Love: [Ep. #16, Project Maintenance with Robby Russell of Planet Argon](https://www.heavybit.com/library/podcasts/developer-love/ep-16-project-maintenance-with-robby-russell-of-planet-argon/)
 - The Changelog: [Episode #465: Oh my! Zsh.](https://changelog.com/podcast/465)
 - Once a Maintainer: [Robby Russell](https://onceamaintainer.substack.com/p/once-a-maintainer-robby-russell)
+- IndieRails: [Robby Russell: Maintaining Planet Argon](https://www.indierails.com/17)
