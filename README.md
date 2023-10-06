@@ -2,6 +2,8 @@
 
 # Robby (on Rails) Russell
 
+#WE:hearts:RAILS
+
 Bonjour! My name is Robby (he/him). I'm the CEO of [Planet Argon](https://www.planetargon.com/), a company that guides organizations with existing Ruby on Rails applications to help make them better and more maintainable. 
 
 Here are a few random details about me:
