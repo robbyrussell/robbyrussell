@@ -13,6 +13,7 @@ Here are a few random details about me:
 
 ## Get in touch
 - Work: https://www.planetargon.com/about/robby-russell
+- Mastadon: https://ruby.social/@robbyrussell
 - Twitter: https://twitter.com/robbyrussell
 - LinkedIn: http://www.linkedin.com/in/robbyrussell
 - Instagram: https://www.instagram.com/robbyrussell
