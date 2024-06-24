@@ -55,3 +55,4 @@ Here are a few random details about me:
 - Once a Maintainer: [Robby Russell](https://onceamaintainer.substack.com/p/once-a-maintainer-robby-russell)
 - IndieRails: [EP#17 Robby Russell: Maintaining Planet Argon](https://www.indierails.com/17)
 - Open Source Stories: [Robby Russell and the happy little accidental success of Oh My Zsh](https://www.opensourcestories.org/stories/2023/robby-russell-ohmyzsh/)
+- Whiskey Web and Whatnot: [Oh My Zsh with Robby Russell](https://www.youtube.com/watch?v=S1rBuoNcn5w)
