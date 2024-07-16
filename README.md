@@ -56,3 +56,5 @@ Here are a few random details about me:
 - IndieRails: [EP#17 Robby Russell: Maintaining Planet Argon](https://www.indierails.com/17)
 - Open Source Stories: [Robby Russell and the happy little accidental success of Oh My Zsh](https://www.opensourcestories.org/stories/2023/robby-russell-ohmyzsh/)
 - Whiskey Web and Whatnot: [Oh My Zsh with Robby Russell](https://www.youtube.com/watch?v=S1rBuoNcn5w)
+- Dead Code: [Tech Death (with Robby Russell)](https://shows.acast.com/dead-code/episodes/tech-death-with-robby-russell)
+- DevTools.fm: [Robby Russell - oh my zsh, Planet Argon](https://www.devtools.fm/episode/106?)
