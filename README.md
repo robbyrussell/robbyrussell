@@ -18,6 +18,7 @@ Here are a few random details about me:
 - Mastadon: https://ruby.social/@robbyrussell
 - Twitter: https://twitter.com/robbyrussell
 - LinkedIn: http://www.linkedin.com/in/robbyrussell
+- Threads: https://www.threads.net/@robbyrussell
 - Instagram: https://www.instagram.com/robbyrussell
 - Planet Argon Blog: https://blog.planetargon.com/blog/robby-russell
 - Dev.to: https://dev.to/robbyrussell
