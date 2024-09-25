@@ -59,3 +59,4 @@ Here are a few random details about me:
 - Whiskey Web and Whatnot: [Oh My Zsh with Robby Russell](https://www.youtube.com/watch?v=S1rBuoNcn5w)
 - Dead Code: [Tech Death (with Robby Russell)](https://shows.acast.com/dead-code/episodes/tech-death-with-robby-russell)
 - DevTools.fm: [Robby Russell - oh my zsh, Planet Argon](https://www.devtools.fm/episode/106?)
+- WeAreDevelopers: [Coffee with Developers - Robby Russell](https://www.wearedevelopers.com/en/videos/917/coffee-with-developers-robby-russell)
