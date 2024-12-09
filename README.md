@@ -40,7 +40,7 @@ Here are a few random details about me:
 - Engineering People Podcast: [Robby Russell](https://engineeringpeople.libsyn.com/robby-russell)
 - Hanselminutes: [108 - Exploring Distributed Source Control with Git](https://www.hanselman.com/blog/hanselminutes-podcast-108-exploring-distributed-source-control-with-git)
 - The Rails with Jason Podcast: [Episode 063 - Turning Around Legacy Projects with Robby Russell, CEO of Planet Argon](https://www.codewithjason.com/podcast/9478252-063-turning-around-legacy-projects-with-robby-russell-ceo-of-planet-argon/)
-- Ruby on Rails Podcast: [Episode #481: Advice on Sunsetting a Rails Application](https://www.therubyonrailspodcast.com/481), [Episode #330: Oh My Zsh & Maintainable Rails with Robby Russell](https://www.therubyonrailspodcast.com/330) and [#332: 2020 Ruby on Rails Community Survey with Robby Russell](https://www.therubyonrailspodcast.com/331) and [#21: Planet Argon](https://www.therubyonrailspodcast.com/35)
+- Ruby on Rails Podcast: [#526: Rails World with Robby Russell](https://www.therubyonrailspodcast.com/526), [Episode #481: Advice on Sunsetting a Rails Application](https://www.therubyonrailspodcast.com/481), [Episode #330: Oh My Zsh & Maintainable Rails with Robby Russell](https://www.therubyonrailspodcast.com/330) and [#332: 2020 Ruby on Rails Community Survey with Robby Russell](https://www.therubyonrailspodcast.com/331) and [#21: Planet Argon](https://www.therubyonrailspodcast.com/35)
 - FLOSS Weekly: [Episode 411: Oh My Zsh](https://twit.tv/shows/floss-weekly/episodes/411) with video!
 - The Changelog: [Episode #61: Oh My Zsh](https://changelog.com/podcast/61)
 - Giant Robots Smashing Into Other Giant Robots: [Episode 281: Reconnecting With Development (Robby Russell)](https://www.giantrobots.fm/281)
@@ -60,3 +60,5 @@ Here are a few random details about me:
 - Dead Code: [Tech Death (with Robby Russell)](https://shows.acast.com/dead-code/episodes/tech-death-with-robby-russell)
 - DevTools.fm: [Robby Russell - oh my zsh, Planet Argon](https://www.devtools.fm/episode/106?)
 - WeAreDevelopers: [Coffee with Developers - Robby Russell](https://www.wearedevelopers.com/en/videos/917/coffee-with-developers-robby-russell)
+- Ode to RailsConf: [EP-19 with Robby Russell](https://www.odetorailsconf.com/2363110/episodes/15681293-robby-russell?t=0)
+  
