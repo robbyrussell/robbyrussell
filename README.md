@@ -2,7 +2,7 @@
 
 # Robby (on Rails) Russell
 
-#WE:hearts:RAILS
+#WE :hearts: RAILS
 
 Bonjour! My name is Robby (he/him). I'm the CEO of [Planet Argon](https://www.planetargon.com/), a company that guides organizations with existing Ruby on Rails applications to help make them better and more maintainable. 
 
@@ -61,4 +61,5 @@ Here are a few random details about me:
 - DevTools.fm: [Robby Russell - oh my zsh, Planet Argon](https://www.devtools.fm/episode/106?)
 - WeAreDevelopers: [Coffee with Developers - Robby Russell](https://www.wearedevelopers.com/en/videos/917/coffee-with-developers-robby-russell)
 - Ode to RailsConf: [EP-19 with Robby Russell](https://www.odetorailsconf.com/2363110/episodes/15681293-robby-russell?t=0)
-  
+- Ruby Rogues: [Rails Survey from 2024 with Robby Russell](https://www.youtube.com/watch?v=h_DnaGAFY8Q)
+- GitHub's Open Source Friday: [Oh My Zsh: The Community-Driven Terminal Enhancer](https://www.youtube.com/watch?v=a8Z4RS_E3dA)
