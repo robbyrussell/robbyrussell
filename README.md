@@ -127,5 +127,7 @@ A few pieces that reflect how I think about long-lived software:
 - Ode to RailsConf: [EP-19](https://www.odetorailsconf.com/2363110/episodes/15681293-robby-russell?t=0)
 - Ruby Rogues: [Rails Survey 2024](https://www.youtube.com/watch?v=h_DnaGAFY8Q)
 - GitHub's Open Source Friday: [Video](https://www.youtube.com/watch?v=a8Z4RS_E3dA)
+- Overcommite: [EP-45 - Sustainability in Software Development: Robby Russell on Tech Debt and Engineering Culture
+](https://overcommitted.dev/sustainability-in-software-development-robby-russell-on-tech-debt-and-engineering-culture/)
 
 </details>
