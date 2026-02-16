@@ -99,7 +99,7 @@ A few pieces that reflect how I think about long-lived software:
 <details>
   <summary>A bunch of podcasts I’ve been a guest on</summary>
 
-- The freeCodeCamp Podcast: [Ep. 34 - d'Oh My Zsh](https://freecodecamp.libsyn.com/ep-34-doh-my-zsh)
+- The freeCodeCamp Podcast: [Ep. 34 - d'Oh My Zsh](https://freecodecamp.libsyn.com/ep-34-doh-my-zsh), []()
 - Bureau of Digital Podcast: [A Step-By-Step Guide to Building Your Internship Program](https://bureauofdigital.com/radio/bureau-briefing-content/2019/10/17-a-step-by-step-guide-to-building-your-internship-program)
 - Engineering People Podcast: [Robby Russell](https://engineeringpeople.libsyn.com/robby-russell)
 - Hanselminutes: [108 - Exploring Distributed Source Control with Git](https://www.hanselman.com/blog/hanselminutes-podcast-108-exploring-distributed-source-control-with-git)
@@ -127,7 +127,8 @@ A few pieces that reflect how I think about long-lived software:
 - Ode to RailsConf: [EP-19](https://www.odetorailsconf.com/2363110/episodes/15681293-robby-russell?t=0)
 - Ruby Rogues: [Rails Survey 2024](https://www.youtube.com/watch?v=h_DnaGAFY8Q)
 - GitHub's Open Source Friday: [Video](https://www.youtube.com/watch?v=a8Z4RS_E3dA)
-- Overcommite: [EP-45 - Sustainability in Software Development: Robby Russell on Tech Debt and Engineering Culture
+- Overcommited: [EP-45 - Sustainability in Software Development: Robby Russell on Tech Debt and Engineering Culture
 ](https://overcommitted.dev/sustainability-in-software-development-robby-russell-on-tech-debt-and-engineering-culture/)
+- freeCodeCamp: [#207 Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell](https://www.freecodecamp.org/news/why-maintaining-a-codebase-is-so-damn-hard-with-ohmyzsh-creator-robby-russell-podcast-207/)
 
 </details>
