@@ -130,6 +130,7 @@ A few pieces that reflect how I think about long-lived software:
 - Overcommited: [EP-45 - Sustainability in Software Development: Robby Russell on Tech Debt and Engineering Culture
 ](https://overcommitted.dev/sustainability-in-software-development-robby-russell-on-tech-debt-and-engineering-culture/)
 - freeCodeCamp: [#207 Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell](https://www.freecodecamp.org/news/why-maintaining-a-codebase-is-so-damn-hard-with-ohmyzsh-creator-robby-russell-podcast-207/)
-- ShopTalk [Where did Oh My Zsh Come From? And Using Rails in 2026 (ep711)](https://shoptalkshow.com/711/)
+- ShopTalk: [Where did Oh My Zsh Come From? And Using Rails in 2026 (ep711)](https://shoptalkshow.com/711/)
+- Scaling DevTools: [EP-192 - Robby Russell on Oh My Zsh, Developer Experience, and Open Source](https://scalingdevtools.com/podcast/episodes/robby-russell)
 
 </details>
